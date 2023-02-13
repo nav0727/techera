@@ -1,0 +1,15 @@
+.image-item {
+  height: 250px;
+  width: 200px;
+  margin-left: 10vw;
+  margin-right: 1vw;
+}
+.item-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  border-radius: 5px;
+  background-color: #f1f5f9;
+  width: 70vw;
+}

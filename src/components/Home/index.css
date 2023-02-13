@@ -1,0 +1,60 @@
+.ul-con {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.li-con {
+  width: 200px;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  margin: 2vw;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-img {
+  width: 80px;
+  height: 80px;
+}
+
+h1 {
+  margin-left: 5vw;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 85vh;
+  width: 90vw;
+}
+
+.head-container {
+  background-color: #64748b;
+  width: 99vw;
+  height: 10vh;
+  align-items: center;
+  display: flex;
+}
+
+.web-logo {
+  height: 40px;
+  width: 150px;
+  margin-left: 10vw;
+}
+
+.fail-img {
+  height: 250px;
+}
+
+.retry-btn {
+  padding: 10px;
+  width: 100px;
+  align-self: center;
+  background-color: #4656a1;
+  color: #f1f5f9;
+  border: none;
+}
